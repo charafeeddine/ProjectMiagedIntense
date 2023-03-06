@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1061346032151",
+    "project_id": "charafeapp2",
+    "storage_bucket": "charafeapp2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061346032151:android:bf4bc377d9f5bae2ef7a52",
+        "android_client_info": {
+          "package_name": "com.example.charafapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061346032151-4fk70383sp5rs3e1ddedq1338javi4rq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvyuxPVgp4WR-m2Vx15etCYZD0ShNvBy8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061346032151-4fk70383sp5rs3e1ddedq1338javi4rq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

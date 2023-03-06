@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1061346032151-4fk70383sp5rs3e1ddedq1338javi4rq.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1061346032151</string>
+    <string name="google_api_key" translatable="false">AIzaSyBvyuxPVgp4WR-m2Vx15etCYZD0ShNvBy8</string>
+    <string name="google_app_id" translatable="false">1:1061346032151:android:bf4bc377d9f5bae2ef7a52</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBvyuxPVgp4WR-m2Vx15etCYZD0ShNvBy8</string>
+    <string name="google_storage_bucket" translatable="false">charafeapp2.appspot.com</string>
+    <string name="project_id" translatable="false">charafeapp2</string>
+</resources>
