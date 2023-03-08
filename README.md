@@ -1,4 +1,4 @@
-# ProjectMiagedIntense
+# ProjectMiagedIntense by Charafeddin Jaiber
 
 ------------------------------------------------------------------Démarrer le projet-----------------------------------------------------------------------
 
