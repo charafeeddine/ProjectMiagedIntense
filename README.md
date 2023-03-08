@@ -16,3 +16,11 @@
 
      👉🏼 Vous pouvez exécuter cette commande sur votre terminal de votre terminal (Dans votre terminal, vous accédez au chemin où vous voulez coller le projet) : git clone https://github.com/charafeeddine/ProjectMiagedIntense.git
 
+     ✅ Vous ouvrez le projet dans votre éditeur. Sur le terminal de l'éditeur, vous tapez la commande "flutter run".
+     ❗️: Il faut ouvrir votre émulateur, sinon vous pouvez sélectionner l'option d'ouvrir sur le web.
+
+
+
+
+
+     
