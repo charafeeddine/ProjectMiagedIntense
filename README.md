@@ -20,24 +20,6 @@
      ❗️: Il faut ouvrir votre émulateur, sinon vous pouvez sélectionner l'option d'ouvrir sur le web.
 
 
-------------------------------------------------------------------Présentation du projet MIAGED-----------------------------------------------------------------------
-
-MVP :
-
-
-
-Connexion
-
-[My image](https://github.com/charafeeddine/ProjectMiagedIntense/lib/screenmiaged/login.png)
-
-
-Liste
-Produits
-Détails produit
-Panier
-Profil
-
-
 
 
 
