@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/Users/charafeddin/Desktop/projectmobile/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+            "outputFile": "/Users/charafeddin/Desktop/testmobile/ProjectMiagedIntense/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
             "map": [
                 {
                     "source": "/Users/charafeddin/.gradle/caches/transforms-3/dabcda68851483edc65f4d3af38ff3f1/transformed/core-1.6.0/res/values-nl/values-nl.xml",
