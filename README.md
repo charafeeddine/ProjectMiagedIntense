@@ -1,5 +1,18 @@
 # ProjectMiagedIntense by Charafeddin Jaiber
 
+--------------------------------------------------------------------✅ MVP---------------------------------------------------------------------------------
+
+😃 Toutes les US ont été réalisées et elles fonctionnent :
+
+👉Connexion
+👉Liste
+👉Produits
+👉Détails produit
+👉Panier
+👉Profil
+
+✅✅ Les données sont stockées dans Firebase✅✅
+
 ------------------------------------------------------------------Démarrer le projet-----------------------------------------------------------------------
 
 ✅ Il y a deux méthodes pour démarrer le projet sur votre ordinateur local : 
